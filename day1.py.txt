@@ -1,0 +1,15 @@
+inp1=int(input("enter principle ="))
+
+inp2=int(input("enter rate="))
+
+inp3=int(input("enter time ="))
+
+a=inp1 
+
+b=inp2
+
+c=inp3
+
+si=a*b*c/100   
+
+print("simple intrest is =",si)
